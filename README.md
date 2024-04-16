@@ -10,6 +10,9 @@ En las lista de usuarios seleccionar la opcion editar del usuario al cual se qui
 
 Acceder a:  
 `Site administration > General > Local competencies > Competency levels`
+
+![alt](./__docs__/img/07.png)
+
 En la vista que aparecerá dar click en el boton `Add new competency level`
 ![alt](./__docs__/img/01.png)
 Asignar un nombre al nivel y guardar cambios
